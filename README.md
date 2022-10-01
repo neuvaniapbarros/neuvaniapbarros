@@ -1,5 +1,13 @@
-### Hello, everyone.🖖 I´m Neuvania.
-estudante de engenharia da computação e apaixonada por tecnologia. 
+<h1 align="center">Hello, everyone 🖖, I´m Neuvania.</h1>
+<h3 align="center">Data Scientist in Development</h3>
+
+<h2>👨‍💻 About Me</h2>
+
+- 👩‍🔧💻 I’m Computer network technician .
+
+- 📚 I'm a Computer engineering student.
+
+- 💻 I’m currently learning Data Science.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -7,7 +15,12 @@ estudante de engenharia da computação e apaixonada por tecnologia.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuvaniapbarros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-
+<h2>Skills 👩‍💻 </h2>
+<img align="center" alt="Neuvania-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Neuvania-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Neuvania-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Neuvania-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Neuvania-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">  
 <!--
 **neuvaniapbarros/neuvaniapbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
