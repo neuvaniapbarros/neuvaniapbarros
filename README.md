@@ -1,4 +1,5 @@
-### Olá eu sou a Neuvânia, estudante de engenharia da computação e apaixonada por tecnologia. 👋
+### Hello, everyone.🖖 I´m Neuvania.
+estudante de engenharia da computação e apaixonada por tecnologia. 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -6,7 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuvaniapbarros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-
 
 <!--
 **neuvaniapbarros/neuvaniapbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
