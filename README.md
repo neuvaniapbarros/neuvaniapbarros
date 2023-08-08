@@ -1,5 +1,5 @@
 <h1 align="center">Hello, everyone 🖖, I´m Neuvania.</h1>
-<h3 align="center">Data Scientist in Development</h3>
+<h3 align="center">Data engineer in Development</h3>
 
 <h2>👨‍💻 About Me</h2>
 
