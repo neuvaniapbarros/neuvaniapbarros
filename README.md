@@ -9,14 +9,13 @@
 - 📊 I’m currently learning Data Science.
 - 📊🔭 I’m currently working on research assistant at LEPES
 
-
+<!--
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neuvaniapbarros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neuvaniapbarros&show_icons=true&theme=transparent)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuvaniapbarros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  -->
 <h2>Skills 👩‍💻 </h2>
 <div>
 <img align="center" alt="Neuvania-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,8 +24,8 @@
 <img align="center" alt="Neuvania-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Neuvania-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">  
 </div>
-<!--
-**neuvaniapbarros/neuvaniapbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.q
+
+<!--**neuvaniapbarros/neuvaniapbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.q
 re are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
