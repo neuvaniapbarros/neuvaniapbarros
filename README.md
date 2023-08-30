@@ -25,10 +25,8 @@
 <img align="center" alt="Neuvania-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">  
 </div>
 <!--
-**neuvaniapbarros/neuvaniapbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**neuvaniapbarros/neuvaniapbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.q
+re are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
