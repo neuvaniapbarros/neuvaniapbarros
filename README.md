@@ -7,7 +7,7 @@
 - 👩‍🔧💻 I’m Computer network technician.
 - 📚 I'm a Computer engineering student.
 - 📊 I’m currently learning Data Science.
-- 📊🔭 I’m currently working on research assistant at LEPES
+- 🔭 I’m currently working on research assistant at LEPES
 
 <!--
 <div align="center">
