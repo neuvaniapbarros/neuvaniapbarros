@@ -1,11 +1,11 @@
 <h1 align="center">Hello, everyone 🖖, I´m Neuvania.</h1>
 <!--<h3 align="center"> FSDS in Development</h3-->
 <h2>👨‍💻 About Me </h2>
-- 😄 Pronouns: She/her
-- 👩‍🔧💻 I’m Computer network technician.
-- 📚 I'm a Computer engineering student.
-- 🌱 I’m currently learning Data Science.
-- 📊 🔭 I'm currently working as a research assistant at LEPES, focusing on data analysis.
+* 😄 Pronouns: She/her
+* 👩‍🔧💻 I’m Computer network technician.
+* 📚 I'm a Computer engineering student.
+* 🌱 I’m currently learning Data Science.
+* 📊 🔭 I'm currently working as a research assistant at LEPES, focusing on data analysis.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
