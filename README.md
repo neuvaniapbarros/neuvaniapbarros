@@ -1,21 +1,20 @@
 <h1 align="center">Hello, everyone 🖖, I´m Neuvania.</h1>
-<h3 align="center">Data engineer in Development</h3>
+<!--<h3 align="center"> FSDS in Development</h3>
 
 <h2>👨‍💻 About Me</h2>
-
 - 😄 Pronouns: She/her
 - 👩‍🔧💻 I’m Computer network technician.
 - 📚 I'm a Computer engineering student.
-- 📊 I’m currently learning Data Science.
-- 🔭 I’m currently working on research assistant at LEPES
+- 🌱 I’m currently learning Data Science.
+- 📊 🔭 I'm currently working as a research assistant at LEPES, focusing on data analysis.
 
-<!--
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neuvaniapbarros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuvaniapbarros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  -->
+
 <h2>Skills 👩‍💻 </h2>
 <div>
 <img align="center" alt="Neuvania-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
